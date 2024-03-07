@@ -3,7 +3,6 @@
 }
 img{
     height: 400px;
-    width: fit-content;
 }
 h5{
     color: black;
@@ -16,12 +15,15 @@ p{
 }
 #big{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
+    margin: 0px 30px 0px 30px;
 }
 #sa{
     font-weight: bolder;
 }
 a{
     text-decoration: none;
-    color: black;
+    color: rgb(198, 13, 158);
+    font-weight: bolder;
+    font-size: large;
 }
