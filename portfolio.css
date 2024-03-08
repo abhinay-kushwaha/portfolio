@@ -27,3 +27,20 @@ a{
     font-weight: bolder;
     font-size: large;
 }
+#logo{
+    display: flex;
+    justify-content:center;
+     margin: 0px 30px 0px 30px ;
+}
+.logos{
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    margin: 10px 30px 0px 30px;
+}
+#foot{
+    background-color: #212529;
+}
+h5{
+    color: white;
+}
