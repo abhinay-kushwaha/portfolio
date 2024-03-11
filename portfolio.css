@@ -3,6 +3,7 @@
 }
 img{
     height: 400px;
+    object-fit:contain;
 }
 h5{
     color: black;
